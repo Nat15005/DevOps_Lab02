@@ -248,5 +248,6 @@
 ![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/11afb257-2530-493f-9337-ee4d6870bd76)
 
 17. Regrese a la pestaña del navegador con el visor wiki y actualice la página. Los artículos ahora se ordenarán como se define en el archivo .order.
+
 ![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/0f1ea3fb-c46a-4020-ae30-946d34ace44a)
 
