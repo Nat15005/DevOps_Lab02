@@ -193,33 +193,60 @@
 
 2. En el menú desplegable de la raíz del repositorio de Documentos, seleccione Nuevo | Carpeta.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/95351450-1443-4fc6-b7e7-157266cb86f4)
+
 3. Introduzca un nuevo nombre de carpeta de "Upcoming-events" y un nuevo nombre de archivo de "January-events.md". Tenga en cuenta que se utiliza la misma convención de nomenclatura para las carpetas. Haga clic en Crear.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/381665ce-e333-4877-94d0-7988700b3541)
+
 4. Agregue algunas rebajas a la página de eventos de enero y confirme los cambios. Confirme la confirmación.
+
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/afc01d6c-3dee-41d0-892c-4b4916619248)
+
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/3510dc34-3be5-45d6-b162-097eefe63987)
 
 5. Regrese a la pestaña abierta al navegador wiki y actualice la página.
 
 6. Ahora hay una carpeta para "Próximos eventos" y una página para "Eventos de enero".
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/ce66e1f4-7ffb-4b97-861a-fa3f1974cc63)
+
 7. Vuelva a la pestaña abierta al repositorio wiki.
 
 8. En el menú desplegable Próximos eventos, seleccione Nuevo | Archivo.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/ddf45e59-6844-4025-8a35-c31e5ee5e93e)
+
 9. Asigne a este archivo el nombre February-events.md y haga clic en Crear.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/f642e818-7225-4497-b5e9-a13d0aa0e3ac)
+
 10. Agregue algunas rebajas a la página de eventos de febrero y confirme los cambios. Confirme la confirmación.
+
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/15eca370-f593-45db-aefc-36008dddd8de)
+
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/136cffe3-8914-4f85-a965-39dd9d005bd4)
 
 11. Regrese a la pestaña abierta al navegador wiki y actualice la página.
 
 12. Tenga en cuenta que las páginas están ordenadas alfabéticamente de forma predeterminada. Si desea establecer un orden específico, puede hacerlo utilizando un archivo .order.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/787fc1df-ced2-47ee-87a5-d20c16c0fd6a)
+
 13. Vuelva a la pestaña abierta al repositorio wiki.
 
 14. Agregue un nuevo archivo a la carpeta Upcoming-events como antes.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/f1e4c64a-be0e-4a0e-95db-e29ffb07611b)
+
 15. Asigne a este archivo el nombre ".order" y haga clic en Crear.
+
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/6358b44f-a9a0-4491-8f06-a054e48dd174)
 
 16. Coloque los nombres de los archivos sin sus extensiones en el orden en que desea que se muestren. En este caso, anteponga los eventos de enero antes de los eventos de febrero. Confirme el archivo y confirme.
 
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/11afb257-2530-493f-9337-ee4d6870bd76)
+
 17. Regrese a la pestaña del navegador con el visor wiki y actualice la página. Los artículos ahora se ordenarán como se define en el archivo .order.
+![image](https://github.com/Nat15005/DevOps_Lab02/assets/111907712/0f1ea3fb-c46a-4020-ae30-946d34ace44a)
 
